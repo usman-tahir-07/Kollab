@@ -29,8 +29,6 @@ The platform combines the professional feel of **LinkedIn** with the collaborati
 
 Designed with a modern **Glassmorphism UI**, Kollab delivers a polished and premium mobile experience.
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c6a8648a-b134-462b-be1e-de7cd9838bb6" />
-
 
 ---
 
