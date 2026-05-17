@@ -29,6 +29,9 @@ The platform combines the professional feel of **LinkedIn** with the collaborati
 
 Designed with a modern **Glassmorphism UI**, Kollab delivers a polished and premium mobile experience.
 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c6a8648a-b134-462b-be1e-de7cd9838bb6" />
+
+
 ---
 
 # ✨ Features
@@ -225,18 +228,6 @@ Bottom Tab Navigation
 
 ---
 
-## `endorsements`
-
-| Field | Type | Description |
-|---|---|---|
-| `id` | `uuid` | Primary key |
-| `sender_id` | `uuid` | User giving endorsement |
-| `receiver_id` | `uuid` | User receiving endorsement |
-| `rating` | `int` | Rating score |
-| `feedback` | `text` | Feedback message |
-
----
-
 # 📦 Installation & Setup
 
 ## 1️⃣ Clone Repository
@@ -306,12 +297,6 @@ Feel free to fork the repository, open issues, and submit pull requests.
 
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 # 💡 Project Vision
 
 Kollab aims to bridge the gap between talented students and collaborative opportunities by creating a digital ecosystem where students can:
@@ -326,8 +311,8 @@ Kollab aims to bridge the gap between talented students and collaborative opport
 
 # 👨‍💻 Developed By
 
-## Usman
+## Usman Tahir
 
-BS Computer Science Student • Aspiring AI Engineer
+BS Computer Science 3rd year Student 
 
 ---
